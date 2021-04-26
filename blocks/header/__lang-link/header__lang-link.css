@@ -1,22 +1,24 @@
 .header__lang-link {
     color: white;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     font-size: 24px;
     line-height: 28px;
     font-style: normal;
     text-decoration: none;
-    margin-right: 18px;
+    display: flex;
 }
 
-.header__lang-link:hover{
-    opacity: 0.5;
+.header__lang-link:hover {
+    opacity: 0.8;
     transition: all 0.2s linear;
 }
 
+.header__lang-link:last-of-type {
+    margin-left: 18px;
+}
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 424px) {
     .header__lang-link {
+        margin-top: 10px;
         font-size: 18px;
-        line-height: 1.33;
     }
 }

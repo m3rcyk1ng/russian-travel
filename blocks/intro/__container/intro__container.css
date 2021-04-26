@@ -1,8 +1,8 @@
 .intro__container {
     display: flex;
     justify-content: flex-start;
-    max-width: 984px;
+    max-width: 690px;
     flex-direction: column;
-    margin: 0 auto;
-    width: 80%;
+    margin: 0;
+    width: 100%;
 }
