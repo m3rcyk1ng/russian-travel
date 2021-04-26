@@ -1,10 +1,14 @@
-.place__title {
+.cover__title {
     color: #FFFFFF;
-    margin: 0;
+    max-width: 560px;
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    max-width: 460px;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
+    text-align: center;
+    align-self: center;
+    margin: 0;
+    padding-top: 245px;
+    padding-bottom: 32px;
 }

@@ -1,10 +1,11 @@
 .place {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
     gap: 48px 40px;
-    grid-template-areas:
-    "title website"
-    "image paragraph"
-    "image paragraph";
+    grid-template-columns: 460px minmax(min-content,max-content);
+    padding-bottom: 80px;
+    margin: 0;
+}
+
+.place:last-of-type {
+    padding-bottom: 0;
 }

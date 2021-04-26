@@ -1,7 +1,13 @@
 .header__row-links {
     display: flex;
     flex-direction: row;
-    margin: 0;
+    margin: 46px 0;
     padding: 0;
     list-style: none;
+}
+
+@media screen and (max-width: 400px) {
+    .header__row-links {
+        margin-top: 30px;
+    }
 }

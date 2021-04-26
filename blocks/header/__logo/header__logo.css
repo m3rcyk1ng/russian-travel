@@ -1,11 +1,17 @@
 .header__logo {
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
-    -ms-transition: all 1s ease;
-    transition: all 1s ease;
+    padding-left: 48px;
 }
 
-.header__logo:hover {
-    -webkit-filter: opacity(25%);
+.header__logo:hover{
+    opacity: 0.5;
+    transition: all 0.2s linear;
+}
+
+@media screen and (max-width: 400px) {
+    .header__logo {
+        width: 142px;
+        height: 42px;
+        padding-left: 16px;
+        padding-top: 16px;
+    }
 }
