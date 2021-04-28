@@ -2,10 +2,7 @@
     display: grid;
     gap: 48px 40px;
     grid-template-columns: 1fr 1fr;
-<<<<<<< HEAD
     grid-template-rows: repeat(2, minmax(min-content,max-content));
-=======
->>>>>>> origin/master
     margin: 0 auto 80px;
 }
 
