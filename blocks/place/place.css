@@ -2,6 +2,10 @@
     display: grid;
     gap: 48px 40px;
     grid-template-columns: 1fr 1fr;
+<<<<<<< HEAD
+    grid-template-rows: repeat(2, minmax(min-content,max-content));
+=======
+>>>>>>> origin/master
     margin: 0 auto 80px;
 }
 
@@ -43,7 +47,12 @@
 
 @media screen and (max-width:320px) {
     .place {
+<<<<<<< HEAD
+        grid-template-rows: repeat(4, minmax(min-content,max-content));
+        grid-template-columns: minmax(min-content,max-content);
+=======
         grid-template-columns: 320px;
+>>>>>>> origin/master
         font-size: 32px;
     }
 }

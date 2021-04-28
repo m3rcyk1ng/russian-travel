@@ -52,7 +52,7 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__links/footer__links.css);
-
+@import url(../blocks/footer/__links-li/footer__links-li.css);
 
 /* ============= etc ============= */
 @import url(../blocks/page/page.css);

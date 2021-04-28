@@ -2,12 +2,18 @@
     margin: 0;
     color: #FFFFFF;
     width: 360px;
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
     align-self: center;
     padding-bottom: 245px;
+}
+
+@media screen and (max-width: 530px) {
+    .cover__subtitle {
+        font-size: 14px;
+        max-width: 288px;
+        line-height: 1.14;
+    }
 }
