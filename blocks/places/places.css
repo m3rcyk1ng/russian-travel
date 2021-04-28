@@ -30,11 +30,7 @@
 
 @media screen and (max-width:320px) {
     .places {
-<<<<<<< HEAD
-        max-width: 320px;
-=======
         max-width: 100%;
->>>>>>> origin/master
         margin: 0;
     }
 }

@@ -25,19 +25,9 @@
 
 @media screen and (max-width:320px) {
     .place__title {
-<<<<<<< HEAD
         max-width:calc(100% - 32px);
         font-size: 32px;
         line-height: 35px;
        padding: 0 16px;
     }
 }
-
-=======
-        width: 100%;
-        font-size: 32px;
-        line-height: 35px;
-        padding-left: 16px;
-    }
-}
->>>>>>> origin/master
