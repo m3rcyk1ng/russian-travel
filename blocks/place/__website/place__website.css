@@ -5,13 +5,13 @@
 }
 
 @media screen and (max-width: 680px) {
-    .place__website{
+    .place__website {
         width: calc(100vw - 40px);
     }
 }
 
 @media screen and (max-width: 320px) {
-    .place__website{
+    .place__website {
         margin: 0 16px;
     }
 }
