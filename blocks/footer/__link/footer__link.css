@@ -21,4 +21,8 @@
         line-height: 1.0;
         margin-bottom: 32px;
     }
+
+    .footer__link:last-child {
+        margin: 0;
+    }
 }
