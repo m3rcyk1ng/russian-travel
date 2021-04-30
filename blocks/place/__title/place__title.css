@@ -1,22 +1,22 @@
 .place__title {
-    color: #FFFFFF;
-    margin: 0;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
+  color: #FFFFFF;
+  margin: 0;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
 }
-
+ 
 @media screen and (max-width: 680px) {
-    .place__title {
-        width: 100%;
-        font-size: 32px;
-        line-height: 35px;
-    }
+  .place__title {
+      width: 100%;
+      font-size: 32px;
+      line-height: 35px;
+  }
 }
-
-@media screen and (max-width: 320px) {
-    .place__title {
-        max-width: calc(100% - 32px);
-        padding: 0 16px;
-    }
+ 
+@media screen and (max-width: 767px) {
+  .place__title {
+      max-width: calc(100% - 32px);
+      padding: 0 16px;
+  }
 }
