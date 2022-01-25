@@ -15,7 +15,7 @@ Grid Layout
 ```
 
 Сайт по картинке ниже ↓
-##### [![Build Status](https://pp.userapi.com/c841136/v841136672/3c88b/ui9N1-cs8k8.jpg)](https://m3rcyk1ng.github.io/russian-travel/index.html)
+[GitHub Pages]:https://m3rcyk1ng.github.io/russian-travel/index.html)
 
 
 ______________________
