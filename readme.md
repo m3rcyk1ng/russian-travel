@@ -15,7 +15,7 @@ Grid Layout
 ```
 
 Сайт по картинке ниже ↓
-[GitHub Pages]:https://m3rcyk1ng.github.io/russian-travel/index.html)
+[GitHub Pages](https://m3rcyk1ng.github.io/russian-travel/index.html)
 
 
 ______________________
