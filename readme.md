@@ -14,8 +14,7 @@ Grid Layout
 Медиазапросы для адаптивной вёрстки
 ```
 
-Сайт по картинке ниже ↓
-[GitHub Pages](https://m3rcyk1ng.github.io/russian-travel/index.html)
+Лэндинг можно посмотреть по ссылке → [GitHub Pages](https://m3rcyk1ng.github.io/russian-travel/index.html)
 
 
 ______________________
