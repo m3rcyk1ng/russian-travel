@@ -1,4 +1,4 @@
-[![Build Status](https://i.imgur.com/uwDEk7j.png)](https://praktikum.yandex.ru/profile/web/)
+[![Build Status](https://i.imgur.com/jpIZtTM.png)](https://praktikum.yandex.ru/profile/web/)
 # Проектная работа №3
 ## Описание проекта
 
